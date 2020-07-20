@@ -2,8 +2,7 @@
 
 ### Hello 👋
 
-> 
-- hǎo hǎo xué xí, tiān tiān xiàng shàng！  
-- Good good study, day day up！  
+> hǎo hǎo xué xí, tiān tiān xiàng shàng！  
+> Good good study, day day up！  
 
 🇨🇳 China・Beijing
